@@ -1,0 +1,6 @@
+opam-version: "1.2"
+name: "advanced-fp"
+version: "0.1"
+depends: [
+  "fomega"
+]
